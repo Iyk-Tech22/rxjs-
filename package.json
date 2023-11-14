@@ -1,0 +1,14 @@
+{
+  "name": "my-project",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "parcel": "latest"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.1"
+  }
+}
